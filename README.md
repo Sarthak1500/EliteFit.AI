@@ -125,6 +125,6 @@ To track down a performance issue in production:
 7. Use Tracing: Implement distributed tracing (e.g., Jaeger, Zipkin) to track request flow and latency.
 
 
-## if you have more time what feature i consider ??
+## if you have more time what feature you consider ??
 Ans... I wanted to add useer authentication via email and or using mobile number,
 and to store users data I'll intigrate the backend of the project from node.js and mongoDb
