@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![Screenshot 1](https://drive.google.com/drive/folders/1iWmWyIre7G7hBBgENeDfJQbmqqbkHKrq?usp=sharing)
+![Screenshot]https://drive.google.com/drive/folders/1iWmWyIre7G7hBBgENeDfJQbmqqbkHKrq?usp=sharing
 
 ## Getting Started
 
